@@ -32,11 +32,11 @@ Software: Python 3.7.6, Anaconda 4.10.3, Pandas, Jupyter Notebook 6.3.0, and Mat
 
 Adding to the first PyBer analysis, we were tasked with providing two new deliverables to enhance the general results, the code can access here [Pyber_Challenge](https://github.com/chocoplace/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb): 
 - Deliverable 1: A ride-sharing summary DataFrame by city type 
-  - Provide total number of rides for each city type: Rural 125 | Suburban 625 | Urban 1625.
-  - Provide  total number of drivers for each city type: Rural 78 | Suburban 490 | Urban 2,405.
-  - Determine the sum of the fares for each city: Rural $4,327.93 | Suburban $19,356.33 | Urban $39,854.38. 
-  - Determine the average fare per ride for each city type: Rural $34.62 | Suburban $30.97 | Urban $24.52.
-  - Determine the average fare per driver for each city type: Rural $55.48 | Suburban $39.50 | Urban $16.57.
+  - Provide total number of rides for each city type: Rural 125 | Suburban 625 | Urban 1,625. Rural cities reported 13 times less rides than Urban cities. 
+  - Provide  total number of drivers for each city type: Rural 78 | Suburban 490 | Urban 2,405. Rural cities reported having 30.83 time less drivers than Urban cities. 
+  - Determine the sum of the fares for each city: Rural $4,327.93 | Suburban $19,356.33 | Urban $39,854.38. Even so Urban cities reported a greater revenue, Rural cities reported a bigger income in relation with drivers/fare per city. 
+  - Determine the average fare per ride for each city type: Rural $34.62 | Suburban $30.97 | Urban $24.52. Rural cities reported a greater average fare per ride in comparison with Urban and Subuerban cities.  
+  - Determine the average fare per driver for each city type: Rural $55.48 | Suburban $39.50 | Urban $16.57. Rural cities reported a greater average fare per driver in comparison with Urban and Subuerban cities.  
   - Create and format A PyBer summary DataFrame:
       
     ![Fig.1](https://github.com/chocoplace/PyBer_Analysis/blob/main/analysis/D1.%20PyBer%20Summary%20DataFrame%201.png)
