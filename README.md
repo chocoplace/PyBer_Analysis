@@ -30,7 +30,7 @@ Software: Python 3.7.6, Anaconda 4.10.3, Pandas, Jupyter Notebook 6.3.0, and Mat
 
 ### Results:
 
-Adding to the first PyBer analysis, we were tasked with providing two new deliverables to enhance the general results: 
+Adding to the first PyBer analysis, we were tasked with providing two new deliverables to enhance the general results, the code can access here [Pyber_Challenge](https://github.com/chocoplace/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb): 
 - Deliverable 1: A ride-sharing summary DataFrame by city type 
   - Provide total number of rides for each city type: Rural 125 | Suburban 625 | Urban 1625.
   - Provide  total number of drivers for each city type: Rural 78 | Suburban 490 | Urban 2,405.
@@ -48,3 +48,8 @@ Adding to the first PyBer analysis, we were tasked with providing two new delive
     ![Fig.3](https://github.com/chocoplace/PyBer_Analysis/blob/main/analysis/D1.%20PyBer%20Summary%20DataFrame%203.png)
 
 
+- Deliverable 2: A multiple-line chart of total fares for each city type. 
+
+  - The following  multiple-line graph was created by using Pandas technical skills and two new functions, pivot() andresample(), shows the total fares for each week by city type:
+
+![PBer_fare_summary](https://github.com/chocoplace/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
