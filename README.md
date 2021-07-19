@@ -53,3 +53,11 @@ Adding to the first PyBer analysis, we were tasked with providing two new delive
   - The following  multiple-line graph was created by using Pandas technical skills and two new functions, pivot() andresample(), shows the total fares for each week by city type:
 
 ![PBer_fare_summary](https://github.com/chocoplace/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
+### Summary:
+
+The results of this analysis will provide a baseline for our PyBer client to strategize on how to allocate resources and areas of opportunity for growth, for example: 
+
+From data we can determine the market in Urban cities is very competitive for drivers, we can see there is a total of 1,625 total rides per 2,405 drivers, resulting in less then 1 ride per driver.  While in Suburban cities 1.27 rides per driver and in Rural cities 1.60 rides per driver. 
+
+
