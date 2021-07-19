@@ -58,6 +58,11 @@ Adding to the first PyBer analysis, we were tasked with providing two new delive
 
 The results of this analysis will provide a baseline for our PyBer client to strategize on how to allocate resources and areas of opportunity for growth, for example: 
 
-From data we can determine the market in Urban cities is very competitive for drivers, we can see there is a total of 1,625 total rides per 2,405 drivers, resulting in less then 1 ride per driver.  While in Suburban cities 1.27 rides per driver and in Rural cities 1.60 rides per driver. 
+  1. From data we can determine the market in Urban cities is very competitive for drivers, we can see there is a total of 1,625 total rides per 2,405 drivers, resulting in less than 1 ride per driver. While Suburban cities fluctuate around 1.27 rides per driver and Rural cities are around 1.60 rides per driver. 
 
+  2. Data shows a disparity of earnings between drivers based on city type. Drivers in Urban cities are making three times less than Rural drivers and two times less than Suburban riders. This shows the need to design a targeted program to create equality between the different city drivers. 
+
+  3. The data also shows an important disparity in the number of total rides between cities. It would be important to identify the reasons behind it, for example in Rural cities reported 125 rides vs 1,625 in Urban cities, is this a relation to price or the market needs (less need for riders?)?. This could be an area of opportunity to target campaigns, if it is fees, maybe PyBer can offer a price decrease and if it is because of the market need, a marketing campaign can be designed to boost the rides. 
+
+End
 
