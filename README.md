@@ -50,7 +50,7 @@ Adding to the first PyBer analysis, we were tasked with providing two new delive
 
 - Deliverable 2: A multiple-line chart of total fares for each city type. 
 
-  - The following  multiple-line graph was created by using Pandas technical skills and two new functions, pivot() andresample(), shows the total fares for each week by city type:
+  - The following  multiple-line graph was created by using Pandas technical skills and two new functions, pivot() andresample(), shows the total fares for each week by city type. From the graph we can highlith the disparities between the different cities and the same time shows they follow the same trend for example the weeks around late Feb and early March:
 
 ![PBer_fare_summary](https://github.com/chocoplace/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
